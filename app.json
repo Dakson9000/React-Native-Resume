@@ -25,6 +25,14 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "fonts": {
+        "montserrat": {
+        "regular": {
+            "uri": "./assets/fonts/Montserrat-VariableFont_wght.ttf"
+        }
+        }
     }
+  
   }
 }
