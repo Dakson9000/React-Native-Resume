@@ -1,13 +1,13 @@
 # Resume App
 
-The Resume App is a mobile application built with React Native and Expo that showcases your professional experience, education, projects, and other relevant details in a visually appealing and organized manner. This app provides an interactive way for users to view your resume on their mobile devices.
+The Resume App is a mobile application built with React Native and Expo that showcases my professional experience, education, projects, and other relevant details in a visually appealing and organized manner. This app provides an interactive way for users to view my resume on their mobile devices.
 
 ## Features
 
-- **About Section:** Introduce yourself with a brief summary in the "About" section.
-- **Experience:** Highlight your professional experience with detailed job descriptions.
-- **Education:** Display your educational background with information about institutions and degrees.
-- **Projects:** Showcase your key projects with descriptions and relevant details.
+- **About Section:** Introduce myelf with a brief summary in the "About" section.
+- **Experience:** Highlight my professional experience with detailed job descriptions.
+- **Education:** Display my educational background with information about institutions and degrees.
+- **Projects:** Showcase my key projects with descriptions and relevant details.
 - **Data Structure** Resume info is structured inside Data.js for easy editing
 - **Custom Fonts:** Utilize custom fonts, such as Montserrat, to enhance the visual appeal.
 
